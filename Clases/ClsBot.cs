@@ -18,12 +18,12 @@ namespace Examen_Final_Programacion_I.Clases
     class ClsBot
     {
         private static TelegramBotClient Bot;
-        
-       
+
+
         public async Task InicioBot()
         {
             ClsContinentes Continentes = new ClsContinentes();
-            Bot = new TelegramBotClient("1781890663:AAET-4nSPDT3CjqqtHm7Ua-XTZSGdnsp6Sw");
+            Bot = new TelegramBotClient("Aqui va el Hash");
             var me = await Bot.GetMeAsync();
             Console.Title = me.Username;
             Bot.OnMessage += MensajeRecibido;
@@ -53,7 +53,7 @@ namespace Examen_Final_Programacion_I.Clases
                                     "/Africa       -Vuelos por el Continente de Africa\n" +
                                     "/Asia         -Vuelos por el Continente de Asia\n" +
                                     "/Oceania      -Vuelos por el Continente de Oceania";
-            await Bot.SendTextMessageAsync( chatId: message.Chat.Id, text: usage);
+            await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: usage);
         }
 
         private static async void MensajeRecibido(object sender, MessageEventArgs messageEventArgs)
@@ -67,8 +67,8 @@ namespace Examen_Final_Programacion_I.Clases
             Console.WriteLine($"La fecha de Envio del Mensaje es: {ObjetoMensaje.Message.Date}");
             Console.WriteLine($"El id del usuario es: {ObjetoMensaje.Message.Chat.Id} ");
             Console.WriteLine($"El Contenido del Mensaje es: {ObjetoMensaje.Message.Text}.");
-            
-           
+
+
             if (message.Text != "/start" && message.Text != "Menu" && message.Text != "/Informacion" && message.Text != "/America" && message.Text != "/Europa" && message.Text != "/Africa" && message.Text != "/Asia" && message.Text != "/Oceania" && message.Text != "Hola" && message.Text != "Adios")
             {
                 respuesta = $"No te entiendo pasajero{ClsEmoji.Cop} que tal si colocas coloca la instruccion clave /start{ClsEmoji.White_Check_Mark}{ClsEmoji.Wink}";
@@ -77,7 +77,7 @@ namespace Examen_Final_Programacion_I.Clases
 
             if (message.Text == "/start" || message.Text == "Menu")
             {
-                respuesta =$"¡ {ClsEmoji.Cop}‍ Saludos querido tripulante {ClsEmoji.Star2} !\n\n" +
+                respuesta = $"¡ {ClsEmoji.Cop}‍ Saludos querido tripulante {ClsEmoji.Star2} !\n\n" +
                     $"Es un gusto para nosotros el que hayas elegido a Aerolínea Quetzal {ClsEmoji.BanderaGuat} como el medio que te permita llegar sano y salvo a tu destino.\n\n" +
                     $"Recuerda que: Aerolínea Quetzal vela por tu bienestar para poder hacerte llegar sano y salvo a tu hogar{ClsEmoji.House_With_Garden}{ClsEmoji.Heart}";
                 await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: respuesta);
@@ -112,9 +112,9 @@ namespace Examen_Final_Programacion_I.Clases
 
             if (message.Text == "/America")
             {
-              respuesta2= Menu.ConsultaVuelos("tb_CAmerica");
-              await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: respuesta2);
-              await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: mensajecovid );
+                respuesta2 = Menu.ConsultaVuelos("tb_CAmerica");
+                await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: respuesta2);
+                await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: mensajecovid);
             }
 
             if (message.Text == "/Europa")
@@ -144,7 +144,7 @@ namespace Examen_Final_Programacion_I.Clases
                 await Bot.SendTextMessageAsync(chatId: message.Chat.Id, text: mensajecovid);
             }
 
-            
+
 
 
 
@@ -155,6 +155,6 @@ namespace Examen_Final_Programacion_I.Clases
 
 
         }
-        
+
     }
 }
