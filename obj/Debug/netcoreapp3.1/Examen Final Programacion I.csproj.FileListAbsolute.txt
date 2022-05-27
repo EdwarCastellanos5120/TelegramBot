@@ -1,0 +1,38 @@
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.csprojAssemblyReference.cache
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.AssemblyInfoInputs.cache
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.AssemblyInfo.cs
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.csproj.CoreCompileInputs.cache
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.exe
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.deps.json
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.runtimeconfig.json
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.runtimeconfig.dev.json
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.dll
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.pdb
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.csproj.CopyComplete
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.dll
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.pdb
+C:\Users\Edwar Castellanos Jr\Desktop\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.exe
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.deps.json
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.runtimeconfig.json
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.runtimeconfig.dev.json
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Examen Final Programacion I.pdb
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.csproj.CopyComplete
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.dll
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.pdb
+C:\Users\alumno\Desktop\Examen FInal\EXAMEN FINAL PROGRAMACION I\Examen Final Programacion I\obj\Debug\netcoreapp3.1\Examen Final Programacion I.genruntimeconfig.cache
